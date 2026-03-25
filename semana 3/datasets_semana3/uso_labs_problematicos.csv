@@ -1,0 +1,276 @@
+registro_id,data,turno,lab_id,codigo_disciplina,disciplina,curso,docente,finalidade,participantes_previstos,presenca_real,reserva_confirmada
+U0001,2026-02-02,manha,LAB01,DCA0310,Redes de Computadores,EC,Prof. Bruno Costa,Aula prática,22.0,21.0,Sim
+U0002,2026-02-02,Manhã ,LAB02,DCA0101,Algoritmos,EC,Prof. Elisa Moura,Avaliação prática,21.0,20.0,Sim
+U0003,2026-02-02,Tarde,LAB02,DCA0601,Sistemas Embarcados,Eng. de Computação,Prof. Bruno Costa,Projeto,32.0,34.0,Sim
+U0004,2026-02-02,Manhã,LAB03,DCA0702,Projetos Integradores,EC, prof. ana paula ,Monitoria,18.0,20.0,Sim
+U0005,2026-02-02,Tarde,LAB03,DCA0702,Projetos Integradores,EC,Prof. Ana Lima,Projeto,23.0,20.0,S
+U0006,2026-02-02,Noite,LAB03,DCA0310,Redes de Computadores,EC,Prof. Diego Alves,Avaliação prática,21.0,17.0,não
+U0007,2026-02-02,Tarde,LAB 03,DCA0520,Ciência de Dados,EC,Prof. Elisa Moura,Aula regular,16.0,17.0,Sim
+U0008,2026-02-02,Noite,lab04,DCA0203,Estruturas de Dados,EC,Prof. Ana Lima,Aula regular,24.0,24.0,Sim
+U0009,2026-02-02,Manhã,LAB09,DCA0412,Banco de Dados,SI,Prof. Bruno Costa,Monitoria,20.0,21.0,Sim
+U0010,03/02/2026,Tarde,LAB05,DCA0310,Redes de Computadores,EC,Prof. Elisa Moura,Aula regular,21.0,18.0,Sim
+U0011,2026/02/03,Noite,LAB05,DCA0412,Banco de Dados,SI,Prof. Carla Nunes,Aula prática,14.0,13.0,Sim
+U0012,2026-13-03,Noite,LAB06,DCA0101,Algoritmos,EC,Prof. Bruno Costa,Projeto,13.0,14.0,Não
+U0013,2026-02-02,Noite,LAB07,DCA0203,Estruturas de Dados,EC,Prof. Elisa Moura,Projeto,25.0,31.0,Não
+U0014,2026-02-02,Manhã,LAB08,DCA0203,Estruturas de Dados,EC,Prof. Ana Lima,Aula prática,,32.0,Sim
+U0015,2026-02-02,Tarde,LAB08,DCA0203,Estruturas de Dados,EC,Prof. Diego Alves,Projeto,27.0,,Não
+U0016,2026-02-02,Noite,LAB08,DCA0520,Ciência de Dados,EC,Prof. Elisa Moura,Aula prática ,14.0,11.0,Sim
+U0017,2026-02-03,Manhã,LAB01,DCA-0101,Banco de Dados,SI,Prof. Ana Lima,Monitoria,20.0,23.0,Sim
+U0018,2026-02-03,Tarde,LAB01,DCA0101,Introdução à Programação,EC,Prof. Bruno Costa,Monitoria,24.0,23.0,Sim
+U0019,2026-02-03,Noite,LAB01,DCA0702,Projetos Integradores,EC,Prof. Elisa Moura,Monitoria,31.0,27.0,Não
+U0020,2026-02-03,Manhã,LAB02,DCA0310,Redes de Computadores,EC,Prof. Ana Lima,Aula regular,24.0,23.0,Sim
+U0005,2026-02-03,Tarde,LAB02,DCA0412,Banco de Dados,SI,Prof. Bruno Costa,Projeto,17.0,15.0,Sim
+U0022,2026-02-03,Noite,LAB02,DCA0702,Projetos Integradores,EC,Prof. Elisa Moura,Aula regular,28.0,27.0,Sim
+U0023,2026-02-03,Manhã,LAB03,DCA0601,Sistemas Embarcados,EC,Prof. Elisa Moura,Projeto,24.0,27.0,Sim
+U0024,2026-02-03,Tarde,LAB03,DCA0101,Algoritmos,EC,Prof. Elisa Moura,Avaliação prática,23.0,19.0,Sim
+U0025,2026-02-03,Manhã,LAB04,DCA0601,Sistemas Embarcados,EC,Prof. Bruno Costa,Aula prática,22.0,18.0,Sim
+U0026,2026-02-03,Noite,LAB04,DCA0203,Estruturas de Dados,EC,Prof. Bruno Costa,Avaliação prática,16.0,19.0,Sim
+U0027,2026-02-03,Noite,LAB05,DCA0203,Estruturas de Dados,EC,Prof. Diego Alves,Aula regular,22.0,24.0,Sim
+U0028,2026-02-03,Manhã,LAB06,DCA0412,Banco de Dados,SI,Prof. Diego Alves,Projeto,15.0,17.0,Sim
+U0029,2026-02-03,Manhã,LAB07,DCA0412,Banco de Dados,SI,Prof. Bruno Costa,Aula regular,14.0,11.0,Sim
+U0030,2026-02-03,Tarde,LAB07,DCA0203,Estruturas de Dados,EC,Prof. Carla Nunes,Projeto,15.0,13.0,Sim
+U0031,2026-02-03,Manhã,LAB08,DCA0702,Projetos Integradores,EC,Prof. Elisa Moura,Aula prática,17.0,13.0,Sim
+U0032,2026-02-04,Manhã,LAB01,DCA0412,Banco de Dados,SI,Prof. Diego Alves,Aula prática,30.0,-1.0,Sim
+U0033,2026-02-04,Tarde/Noite,LAB01,DCA0412,Banco de Dados,SI,Prof. Carla Nunes,Projeto,23.0,26.0,Não
+U0034,2026-02-04,Noite,LAB01,DCA0310,Redes de Computadores,EC,Prof. Elisa Moura,Avaliação prática,21.0,17.0,Sim
+U0035,2026-02-04,Tarde,LAB02,DCA0520,Ciência de Dados,EC,Prof. Ana Lima,Avaliação prática,30.0,28.0,Sim
+U0036,2026-02-04,Manhã,LAB03,DCA0101,Algoritmos,EC,Prof. Ana Lima,Avaliação prática,20.0,22.0,Sim
+U0037,2026-02-04,Tarde,LAB03,DCA0101,Algoritmos,EC,Prof. Elisa Moura,Avaliação prática,15.0,17.0,Sim
+U0038,2026-02-04,Manhã,LAB04,DCA0601,Sistemas Embarcados,EC,Prof. Carla Nunes,Projeto,17.0,16.0,Sim
+U0039,2026-02-04,Noite,LAB04,DCA0310,Redes de Computadores,EC,Prof. Ana Lima,Projeto,26.0,23.0,Sim
+U0040,2026-02-04,Manhã,LAB05,DCA0203,Estruturas de Dados,EC,Prof. Bruno Costa,Monitoria,18.0,18.0,Sim
+U0041,2026-02-04,Noite,LAB05,DCA0203,Estruturas de Dados,EC,Prof. Elisa Moura,Avaliação prática,17.0,17.0,Sim
+U0042,2026-02-04,Tarde,LAB06,DCA0601,Sistemas Embarcados,EC,Prof. Carla Nunes,Aula prática,11.0,9.0,Sim
+U0043,2026-02-04,Manhã,LAB07,DCA0310,Redes de Computadores,EC,Prof. Carla Nunes,Aula regular,18.0,17.0,Sim
+U0044,2026-02-04,Tarde,LAB07,DCA0310,Redes de Computadores,EC,Prof. Diego Alves,Monitoria,9.0,6.0,Sim
+U0045,2026-02-04,Noite,LAB07,DCA0702,Projetos Integradores,EC,Prof. Bruno Costa,Projeto,11.0,11.0,Não
+U0046,2026-02-04,Manhã,LAB08,DCA0101,Algoritmos,EC,Prof. Elisa Moura,Aula prática,16.0,14.0,Sim
+U0047,2026-02-04,Noite,LAB08,DCA0203,Estruturas de Dados,EC,Prof. Carla Nunes,Aula prática,15.0,15.0,Sim
+U0048,2026-02-05,Manhã,LAB01,DCA0203,Estruturas de Dados,EC,Prof. Elisa Moura,Projeto,18.0,19.0,Sim
+U0049,2026-02-05,Noite,LAB01,DCA0203,Estruturas de Dados,EC,Prof. Ana Lima,Aula regular,20.0,22.0,Sim
+U0050,2026-02-05,Tarde,LAB02,DCA0601,Sistemas Embarcados,EC,Prof. Bruno Costa,Aula prática,22.0,22.0,Não
+U0051,2026-02-05,Tarde,LAB03,DCA0702,Projetos Integradores,EC,Prof. Carla Nunes,Aula regular,27.0,28.0,Sim
+U0052,2026-02-05,Noite,LAB03,DCA0203,Estruturas de Dados,EC,Prof. Carla Nunes,Aula prática,25.0,26.0,Sim
+U0053,2026-02-05,Manhã,LAB04,DCA0520,Ciência de Dados,EC,Prof. Ana Lima,Aula prática,18.0,19.0,Sim
+U0054,2026-02-05,Tarde,LAB04,DCA0310,Redes de Computadores,EC,Prof. Elisa Moura,Projeto,12.0,9.0,Sim
+U0055,2026-02-05,Manhã,LAB05,DCA0520,Ciência de Dados,EC,Prof. Diego Alves,Avaliação prática,18.0,15.0,Sim
+U0056,2026-02-05,Tarde,LAB05,DCA0601,Sistemas Embarcados,EC,Prof. Elisa Moura,Avaliação prática,16.0,12.0,Sim
+U0057,2026-02-05,Noite,LAB05,DCA0101,Algoritmos,EC,Prof. Elisa Moura,Monitoria,20.0,21.0,Sim
+U0058,2026-02-05,Tarde,LAB06,DCA0310,Redes de Computadores,EC,Prof. Carla Nunes,Projeto,20.0,22.0,Sim
+U0059,2026-02-05,Noite,LAB06,DCA0203,Estruturas de Dados,EC,Prof. Bruno Costa,Avaliação prática,16.0,18.0,Sim
+U0060,2026-02-05,Manhã,LAB07,DCA0702,Projetos Integradores,EC,Prof. Carla Nunes,Aula regular,9.0,9.0,Não
+U0061,2026-02-05,Manhã,LAB08,DCA0412,Banco de Dados,SI,Prof. Elisa Moura,Projeto,28.0,27.0,Sim
+U0062,2026-02-05,Noite,LAB08,DCA0601,Sistemas Embarcados,EC,Prof. Bruno Costa,Monitoria,24.0,21.0,Sim
+U0063,2026-02-06,Tarde,LAB01,DCA0101,Algoritmos,EC,Prof. Elisa Moura,Aula prática,22.0,25.0,Não
+U0064,2026-02-06,Noite,LAB01,DCA0601,Sistemas Embarcados,EC,Prof. Diego Alves,Projeto,33.0,32.0,Não
+U0065,2026-02-06,Manhã,LAB02,DCA0601,Sistemas Embarcados,EC,Prof. Diego Alves,Aula regular,15.0,12.0,Sim
+U0066,2026-02-06,Manhã,LAB03,DCA0520,Ciência de Dados,EC,Prof. Diego Alves,Aula regular,20.0,17.0,Não
+U0067,2026-02-06,Noite,LAB05,DCA0702,Projetos Integradores,EC,Prof. Bruno Costa,Projeto,18.0,21.0,Não
+U0068,2026-02-06,Manhã,LAB06,DCA0203,Estruturas de Dados,EC,Prof. Elisa Moura,Projeto,20.0,20.0,Sim
+U0069,2026-02-06,Tarde,LAB06,DCA0101,Algoritmos,EC,Prof. Bruno Costa,Monitoria,21.0,21.0,Sim
+U0070,2026-02-06,Noite,LAB06,DCA0520,Ciência de Dados,EC,Prof. Bruno Costa,Aula regular,11.0,9.0,Não
+U0071,2026-02-06,Noite,LAB07,DCA0412,Banco de Dados,SI,Prof. Diego Alves,Aula prática,14.0,17.0,Sim
+U0072,2026-02-06,Tarde,LAB08,DCA0702,Projetos Integradores,EC,Prof. Diego Alves,Aula prática,14.0,16.0,Sim
+U0073,2026-02-06,Noite,LAB08,DCA0412,Banco de Dados,SI,Prof. Diego Alves,Aula regular,27.0,26.0,Sim
+U0074,2026-02-09,Manhã,LAB01,DCA0101,Algoritmos,EC,Prof. Diego Alves,Aula regular,27.0,28.0,Não
+U0075,2026-02-09,Manhã,LAB02,DCA0412,Banco de Dados,SI,Prof. Ana Lima,Projeto,33.0,29.0,Sim
+U0076,2026-02-09,Noite,LAB02,DCA0310,Redes de Computadores,EC,Prof. Bruno Costa,Projeto,27.0,28.0,Sim
+U0077,2026-02-09,Manhã,LAB03,DCA0412,Banco de Dados,SI,Prof. Carla Nunes,Aula prática,21.0,23.0,Não
+U0078,2026-02-09,Tarde,LAB03,DCA0520,Ciência de Dados,EC,Prof. Bruno Costa,Aula prática,14.0,15.0,Sim
+U0079,2026-02-09,Tarde,LAB04,DCA0101,Algoritmos,EC,Prof. Bruno Costa,Aula regular,21.0,19.0,Não
+U0080,2026-02-09,Manhã,LAB05,DCA0203,Estruturas de Dados,EC,Prof. Carla Nunes,Aula regular,17.0,17.0,Sim
+U0081,2026-02-09,Noite,LAB05,DCA0310,Redes de Computadores,EC,Prof. Carla Nunes,Avaliação prática,11.0,7.0,Não
+U0082,2026-02-09,Manhã,LAB06,DCA0601,Sistemas Embarcados,EC,Prof. Elisa Moura,Aula regular,13.0,10.0,Sim
+U0083,2026-02-09,Noite,LAB06,DCA0601,Sistemas Embarcados,EC,Prof. Elisa Moura,Aula prática,19.0,16.0,Sim
+U0084,2026-02-09,Manhã,LAB07,DCA0601,Sistemas Embarcados,EC,Prof. Elisa Moura,Monitoria,14.0,11.0,Sim
+U0085,2026-02-09,Manhã,LAB08,DCA0310,Redes de Computadores,EC,Prof. Diego Alves,Aula regular,28.0,26.0,Sim
+U0086,2026-02-10,Tarde,LAB01,DCA0702,Projetos Integradores,EC,Prof. Carla Nunes,Aula regular,33.0,33.0,Sim
+U0087,2026-02-10,Noite,LAB01,DCA0412,Banco de Dados,SI,Prof. Elisa Moura,Avaliação prática,22.0,25.0,Não
+U0088,2026-02-10,Manhã,LAB02,DCA0412,Banco de Dados,SI,Prof. Diego Alves,Aula regular,25.0,23.0,Sim
+U0089,2026-02-10,Noite,LAB02,DCA0520,Ciência de Dados,EC,Prof. Elisa Moura,Aula regular,23.0,19.0,Sim
+U0090,2026-02-10,Manhã,LAB03,DCA0412,Banco de Dados,SI,Prof. Diego Alves,Projeto,28.0,27.0,Não
+U0091,2026-02-10,Noite,LAB03,DCA0203,Estruturas de Dados,EC,Prof. Carla Nunes,Avaliação prática,25.0,24.0,Sim
+U0092,2026-02-10,Manhã,LAB04,DCA0520,Ciência de Dados,EC,Prof. Elisa Moura,Monitoria,17.0,19.0,Sim
+U0093,2026-02-10,Noite,LAB04,DCA0310,Redes de Computadores,EC,Prof. Bruno Costa,Monitoria,15.0,12.0,Sim
+U0094,2026-02-10,Manhã,LAB06,DCA0601,Sistemas Embarcados,EC,Prof. Elisa Moura,Avaliação prática,17.0,17.0,Sim
+U0095,2026-02-10,Manhã,LAB07,DCA0310,Redes de Computadores,EC,Prof. Ana Lima,Avaliação prática,11.0,11.0,Sim
+U0096,2026-02-10,Tarde,LAB07,DCA0101,Algoritmos,EC,Prof. Bruno Costa,Projeto,17.0,17.0,Sim
+U0097,2026-02-10,Manhã,LAB08,DCA0412,Banco de Dados,SI,Prof. Carla Nunes,Aula regular,29.0,32.0,Sim
+U0098,2026-02-10,Tarde,LAB08,DCA0702,Projetos Integradores,EC,Prof. Ana Lima,Projeto,29.0,26.0,Não
+U0099,2026-02-10,Noite,LAB08,DCA0601,Sistemas Embarcados,EC,Prof. Bruno Costa,Avaliação prática,15.0,13.0,Sim
+U0100,2026-02-11,Manhã,LAB01,DCA0203,Estruturas de Dados,EC,Prof. Elisa Moura,Avaliação prática,18.0,20.0,Sim
+U0101,2026-02-11,Noite,LAB01,DCA0412,Banco de Dados,SI,Prof. Carla Nunes,Avaliação prática,24.0,26.0,Sim
+U0102,2026-02-11,Manhã,LAB03,DCA0203,Estruturas de Dados,EC,Prof. Bruno Costa,Aula regular,21.0,18.0,Sim
+U0103,2026-02-11,Tarde,LAB03,DCA0203,Estruturas de Dados,EC,Prof. Diego Alves,Avaliação prática,13.0,15.0,Não
+U0104,2026-02-11,Noite,LAB03,DCA0203,Estruturas de Dados,EC,Prof. Diego Alves,Aula prática,22.0,22.0,Sim
+U0105,2026-02-11,Noite,LAB05,DCA0520,Ciência de Dados,EC,Prof. Carla Nunes,Aula regular,13.0,11.0,Sim
+U0106,2026-02-11,Manhã,LAB06,DCA0702,Projetos Integradores,EC,Prof. Diego Alves,Aula prática,14.0,14.0,Não
+U0107,2026-02-11,Tarde,LAB07,DCA0412,Banco de Dados,SI,Prof. Elisa Moura,Aula prática,16.0,13.0,Não
+U0108,2026-02-11,Tarde,LAB08,DCA0203,Estruturas de Dados,EC,Prof. Elisa Moura,Aula prática,14.0,14.0,Sim
+U0109,2026-02-11,Noite,LAB08,DCA0601,Sistemas Embarcados,EC,Prof. Bruno Costa,Avaliação prática,28.0,28.0,Não
+U0110,2026-02-12,Tarde,LAB01,DCA0101,Algoritmos,EC,Prof. Diego Alves,Monitoria,30.0,31.0,Sim
+U0111,2026-02-12,Tarde,LAB02,DCA0601,Sistemas Embarcados,EC,Prof. Diego Alves,Avaliação prática,30.0,30.0,Sim
+U0112,2026-02-12,Noite,LAB02,DCA0310,Redes de Computadores,EC,Prof. Ana Lima,Projeto,23.0,24.0,Sim
+U0113,2026-02-12,Tarde,LAB03,DCA0412,Banco de Dados,SI,Prof. Elisa Moura,Monitoria,14.0,13.0,Não
+U0114,2026-02-12,Tarde,LAB04,DCA0520,Ciência de Dados,EC,Prof. Diego Alves,Projeto,14.0,14.0,Sim
+U0115,2026-02-12,Noite,LAB04,DCA0601,Sistemas Embarcados,EC,Prof. Bruno Costa,Monitoria,21.0,20.0,Sim
+U0116,2026-02-12,Manhã,LAB05,DCA0101,Algoritmos,EC,Prof. Diego Alves,Aula prática,13.0,10.0,Sim
+U0117,2026-02-12,Tarde,LAB05,DCA0601,Sistemas Embarcados,EC,Prof. Diego Alves,Projeto,14.0,14.0,Não
+U0118,2026-02-12,Noite,LAB05,DCA0520,Ciência de Dados,EC,Prof. Bruno Costa,Avaliação prática,12.0,14.0,Sim
+U0119,2026-02-12,Tarde,LAB06,DCA0702,Projetos Integradores,EC,Prof. Elisa Moura,Monitoria,16.0,17.0,Sim
+U0120,2026-02-12,Noite,LAB06,DCA0310,Redes de Computadores,EC,Prof. Bruno Costa,Projeto,19.0,22.0,Não
+U0121,2026-02-12,Manhã,LAB07,DCA0520,Ciência de Dados,EC,Prof. Diego Alves,Monitoria,17.0,19.0,Sim
+U0122,2026-02-12,Noite,LAB07,DCA0412,Banco de Dados,SI,Prof. Ana Lima,Monitoria,12.0,14.0,Não
+U0123,2026-02-12,Noite,LAB08,DCA0601,Sistemas Embarcados,EC,Prof. Ana Lima,Aula regular,18.0,21.0,Sim
+U0124,2026-02-13,Noite,LAB01,DCA0520,Ciência de Dados,EC,Prof. Bruno Costa,Projeto,29.0,25.0,Sim
+U0125,2026-02-13,Manhã,LAB02,DCA0702,Projetos Integradores,EC,Prof. Elisa Moura,Projeto,23.0,24.0,Sim
+U0126,2026-02-13,Tarde,LAB03,DCA0310,Redes de Computadores,EC,Prof. Elisa Moura,Aula prática,28.0,24.0,Sim
+U0127,2026-02-13,Manhã,LAB05,DCA0101,Algoritmos,EC,Prof. Diego Alves,Aula regular,22.0,19.0,Sim
+U0128,2026-02-13,Noite,LAB05,DCA0702,Projetos Integradores,EC,Prof. Carla Nunes,Monitoria,10.0,10.0,Não
+U0129,2026-02-13,Manhã,LAB06,DCA0520,Ciência de Dados,EC,Prof. Bruno Costa,Aula regular,16.0,14.0,Sim
+U0130,2026-02-13,Noite,LAB06,DCA0601,Sistemas Embarcados,EC,Prof. Elisa Moura,Aula regular,13.0,16.0,Sim
+U0131,2026-02-13,Manhã,LAB07,DCA0310,Redes de Computadores,EC,Prof. Ana Lima,Projeto,16.0,16.0,Sim
+U0132,2026-02-13,Noite,LAB07,DCA0412,Banco de Dados,SI,Prof. Diego Alves,Monitoria,14.0,14.0,Não
+U0133,2026-02-13,Tarde,LAB08,DCA0412,Banco de Dados,SI,Prof. Bruno Costa,Projeto,29.0,26.0,Sim
+U0134,2026-02-13,Noite,LAB08,DCA0601,Sistemas Embarcados,EC,Prof. Diego Alves,Monitoria,23.0,19.0,Sim
+U0135,2026-02-16,Manhã,LAB01,DCA0601,Sistemas Embarcados,EC,Prof. Carla Nunes,Aula regular,16.0,19.0,Sim
+U0136,2026-02-16,Tarde,LAB01,DCA0203,Estruturas de Dados,EC,Prof. Ana Lima,Aula prática,23.0,21.0,Sim
+U0137,2026-02-16,Manhã,LAB02,DCA0310,Redes de Computadores,EC,Prof. Carla Nunes,Monitoria,19.0,16.0,Não
+U0138,2026-02-16,Tarde,LAB02,DCA0203,Estruturas de Dados,EC,Prof. Elisa Moura,Avaliação prática,32.0,33.0,Sim
+U0139,2026-02-16,Manhã,LAB03,DCA0702,Projetos Integradores,EC,Prof. Carla Nunes,Aula prática,28.0,28.0,Não
+U0140,2026-02-16,Noite,LAB03,DCA0203,Estruturas de Dados,EC,Prof. Ana Lima,Projeto,25.0,26.0,Sim
+U0141,2026-02-16,Manhã,LAB04,DCA0101,Algoritmos,EC,Prof. Carla Nunes,Avaliação prática,19.0,20.0,Não
+U0142,2026-02-16,Manhã,LAB05,DCA0203,Estruturas de Dados,EC,Prof. Elisa Moura,Avaliação prática,17.0,13.0,Sim
+U0143,2026-02-16,Noite,LAB05,DCA0101,Algoritmos,EC,Prof. Carla Nunes,Projeto,20.0,23.0,Sim
+U0144,2026-02-16,Manhã,LAB06,DCA0101,Algoritmos,EC,Prof. Ana Lima,Aula prática,14.0,17.0,Sim
+U0145,2026-02-16,Noite,LAB06,DCA0412,Banco de Dados,SI,Prof. Elisa Moura,Aula regular,15.0,17.0,Não
+U0146,2026-02-16,Tarde,LAB08,DCA0601,Sistemas Embarcados,EC,Prof. Diego Alves,Projeto,25.0,24.0,Sim
+U0147,2026-02-17,Manhã,LAB01,DCA0601,Sistemas Embarcados,EC,Prof. Ana Lima,Projeto,26.0,27.0,Sim
+U0148,2026-02-17,Tarde,LAB01,DCA0101,Algoritmos,EC,Prof. Bruno Costa,Avaliação prática,29.0,26.0,Sim
+U0149,2026-02-17,Noite,LAB01,DCA0310,Redes de Computadores,EC,Prof. Elisa Moura,Aula regular,22.0,20.0,Sim
+U0150,2026-02-17,Tarde,LAB02,DCA0520,Ciência de Dados,EC,Prof. Carla Nunes,Aula regular,21.0,20.0,Sim
+U0151,2026-02-17,Noite,LAB02,DCA0203,Estruturas de Dados,EC,Prof. Bruno Costa,Aula prática,19.0,19.0,Sim
+U0152,2026-02-17,Manhã,LAB03,DCA0310,Redes de Computadores,EC,Prof. Ana Lima,Aula regular,20.0,21.0,Sim
+U0153,2026-02-17,Tarde,LAB03,DCA0601,Sistemas Embarcados,EC,Prof. Ana Lima,Projeto,26.0,23.0,Não
+U0154,2026-02-17,Manhã,LAB04,DCA0101,Algoritmos,EC,Prof. Elisa Moura,Aula prática,19.0,18.0,Sim
+U0155,2026-02-17,Tarde,LAB04,DCA0101,Algoritmos,EC,Prof. Diego Alves,Projeto,12.0,15.0,Sim
+U0156,2026-02-17,Noite,LAB04,DCA0412,Banco de Dados,SI,Prof. Carla Nunes,Avaliação prática,13.0,10.0,Sim
+U0157,2026-02-17,Manhã,LAB05,DCA0310,Redes de Computadores,EC,Prof. Diego Alves,Avaliação prática,19.0,20.0,Sim
+U0158,2026-02-17,Tarde,LAB05,DCA0520,Ciência de Dados,EC,Prof. Ana Lima,Avaliação prática,16.0,13.0,Sim
+U0159,2026-02-17,Noite,LAB05,DCA0203,Estruturas de Dados,EC,Prof. Diego Alves,Projeto,16.0,17.0,Não
+U0160,2026-02-17,Tarde,LAB06,DCA0310,Redes de Computadores,EC,Prof. Carla Nunes,Aula regular,20.0,20.0,Não
+U0161,2026-02-17,Noite,LAB06,DCA0702,Projetos Integradores,EC,Prof. Diego Alves,Aula prática,11.0,8.0,Sim
+U0162,2026-02-17,Tarde,LAB07,DCA0520,Ciência de Dados,EC,Prof. Ana Lima,Projeto,17.0,18.0,Sim
+U0163,2026-02-17,Tarde,LAB08,DCA0601,Sistemas Embarcados,EC,Prof. Elisa Moura,Monitoria,15.0,15.0,Sim
+U0164,2026-02-17,Noite,LAB08,DCA0520,Ciência de Dados,EC,Prof. Diego Alves,Aula regular,20.0,18.0,Sim
+U0165,2026-02-18,Manhã,LAB01,DCA0520,Ciência de Dados,EC,Prof. Carla Nunes,Avaliação prática,26.0,23.0,Sim
+U0166,2026-02-18,Tarde,LAB03,DCA0601,Sistemas Embarcados,EC,Prof. Bruno Costa,Monitoria,21.0,17.0,Sim
+U0167,2026-02-18,Manhã,LAB04,DCA0203,Estruturas de Dados,EC,Prof. Elisa Moura,Projeto,25.0,23.0,Sim
+U0168,2026-02-18,Tarde,LAB04,DCA0601,Sistemas Embarcados,EC,Prof. Elisa Moura,Aula regular,12.0,9.0,Não
+U0169,2026-02-18,Noite,LAB04,DCA0310,Redes de Computadores,EC,Prof. Carla Nunes,Monitoria,14.0,15.0,Sim
+U0170,2026-02-18,Tarde,LAB05,DCA0702,Projetos Integradores,EC,Prof. Ana Lima,Monitoria,19.0,15.0,Não
+U0171,2026-02-18,Manhã,LAB06,DCA0412,Banco de Dados,SI,Prof. Bruno Costa,Avaliação prática,16.0,16.0,Sim
+U0172,2026-02-18,Tarde,LAB06,DCA0101,Algoritmos,EC,Prof. Elisa Moura,Monitoria,14.0,17.0,Sim
+U0173,2026-02-18,Noite,LAB06,DCA0520,Ciência de Dados,EC,Prof. Bruno Costa,Monitoria,10.0,6.0,Sim
+U0174,2026-02-18,Noite,LAB07,DCA0101,Algoritmos,EC,Prof. Diego Alves,Aula regular,9.0,12.0,Sim
+U0175,2026-02-18,Manhã,LAB08,DCA0601,Sistemas Embarcados,EC,Prof. Ana Lima,Projeto,21.0,22.0,Sim
+U0176,2026-02-18,Tarde,LAB08,DCA0412,Banco de Dados,SI,Prof. Elisa Moura,Projeto,16.0,17.0,Não
+U0177,2026-02-19,Manhã,LAB01,DCA0101,Algoritmos,EC,Prof. Carla Nunes,Aula regular,27.0,23.0,Não
+U0178,2026-02-19,Manhã,LAB02,DCA0702,Projetos Integradores,EC,Prof. Diego Alves,Avaliação prática,18.0,17.0,Não
+U0179,2026-02-19,Tarde,LAB02,DCA0412,Banco de Dados,SI,Prof. Bruno Costa,Monitoria,24.0,25.0,Sim
+U0180,2026-02-19,Noite,LAB02,DCA0601,Sistemas Embarcados,EC,Prof. Carla Nunes,Monitoria,18.0,17.0,Sim
+U0181,2026-02-19,Manhã,LAB03,DCA0203,Estruturas de Dados,EC,Prof. Bruno Costa,Avaliação prática,21.0,20.0,Sim
+U0182,2026-02-19,Manhã,LAB04,DCA0702,Projetos Integradores,EC,Prof. Diego Alves,Avaliação prática,22.0,25.0,Não
+U0183,2026-02-19,Noite,LAB05,DCA0601,Sistemas Embarcados,EC,Prof. Diego Alves,Aula prática,15.0,13.0,Não
+U0184,2026-02-19,Manhã,LAB06,DCA0310,Redes de Computadores,EC,Prof. Elisa Moura,Aula prática,22.0,22.0,Sim
+U0185,2026-02-19,Tarde,LAB06,DCA0310,Redes de Computadores,EC,Prof. Ana Lima,Aula prática,17.0,20.0,Sim
+U0186,2026-02-19,Manhã,LAB07,DCA0702,Projetos Integradores,EC,Prof. Diego Alves,Avaliação prática,10.0,12.0,Sim
+U0187,2026-02-19,Tarde,LAB07,DCA0702,Projetos Integradores,EC,Prof. Carla Nunes,Avaliação prática,18.0,17.0,Não
+U0188,2026-02-19,Noite,LAB07,DCA0101,Algoritmos,EC,Prof. Carla Nunes,Aula prática,16.0,13.0,Sim
+U0189,2026-02-19,Manhã,LAB08,DCA0601,Sistemas Embarcados,EC,Prof. Elisa Moura,Avaliação prática,28.0,31.0,Sim
+U0190,2026-02-19,Tarde,LAB08,DCA0310,Redes de Computadores,EC,Prof. Carla Nunes,Avaliação prática,26.0,28.0,Sim
+U0191,2026-02-20,Tarde,LAB01,DCA0101,Algoritmos,EC,Prof. Carla Nunes,Monitoria,32.0,34.0,Sim
+U0192,2026-02-20,Noite,LAB01,DCA0520,Ciência de Dados,EC,Prof. Carla Nunes,Projeto,19.0,20.0,Sim
+U0193,2026-02-20,Noite,LAB02,DCA0412,Banco de Dados,SI,Prof. Elisa Moura,Aula prática,25.0,23.0,Não
+U0194,2026-02-20,Manhã,LAB03,DCA0101,Algoritmos,EC,Prof. Bruno Costa,Aula regular,24.0,24.0,Sim
+U0195,2026-02-20,Noite,LAB03,DCA0203,Estruturas de Dados,EC,Prof. Ana Lima,Monitoria,17.0,15.0,Sim
+U0196,2026-02-20,Manhã,LAB04,DCA0520,Ciência de Dados,EC,Prof. Carla Nunes,Avaliação prática,25.0,21.0,Sim
+U0197,2026-02-20,Noite,LAB04,DCA0203,Estruturas de Dados,EC,Prof. Diego Alves,Aula prática,25.0,23.0,Não
+U0198,2026-02-20,Manhã,LAB05,DCA0601,Sistemas Embarcados,EC,Prof. Elisa Moura,Monitoria,13.0,16.0,Não
+U0199,2026-02-20,Tarde,LAB05,DCA0203,Estruturas de Dados,EC,Prof. Bruno Costa,Monitoria,14.0,17.0,Não
+U0200,2026-02-20,Noite,LAB05,DCA0310,Redes de Computadores,EC,Prof. Elisa Moura,Avaliação prática,22.0,24.0,Não
+U0201,2026-02-20,Manhã,LAB07,DCA0310,Redes de Computadores,EC,Prof. Carla Nunes,Avaliação prática,9.0,12.0,Sim
+U0202,2026-02-20,Noite,LAB07,DCA0101,Algoritmos,EC,Prof. Bruno Costa,Monitoria,13.0,10.0,Não
+U0203,2026-02-20,Tarde,LAB08,DCA0412,Banco de Dados,SI,Prof. Diego Alves,Monitoria,16.0,15.0,Sim
+U0204,2026-02-20,Noite,LAB08,DCA0412,Banco de Dados,SI,Prof. Bruno Costa,Projeto,30.0,31.0,Sim
+U0205,2026-02-23,Manhã,LAB01,DCA0101,Algoritmos,EC,Prof. Carla Nunes,Aula regular,25.0,22.0,Sim
+U0206,2026-02-23,Tarde,LAB01,DCA0702,Projetos Integradores,EC,Prof. Diego Alves,Projeto,30.0,28.0,Sim
+U0207,2026-02-23,Manhã,LAB02,DCA0203,Estruturas de Dados,EC,Prof. Ana Lima,Monitoria,19.0,21.0,Sim
+U0208,2026-02-23,Tarde,LAB02,DCA0101,Algoritmos,EC,Prof. Elisa Moura,Projeto,22.0,24.0,Sim
+U0209,2026-02-23,Noite,LAB02,DCA0412,Banco de Dados,SI,Prof. Elisa Moura,Avaliação prática,32.0,28.0,Sim
+U0210,2026-02-23,Tarde,LAB03,DCA0101,Algoritmos,EC,Prof. Elisa Moura,Projeto,24.0,23.0,Sim
+U0211,2026-02-23,Manhã,LAB04,DCA0310,Redes de Computadores,EC,Prof. Diego Alves,Projeto,13.0,9.0,Sim
+U0212,2026-02-23,Manhã,LAB05,DCA0101,Algoritmos,EC,Prof. Carla Nunes,Aula regular,15.0,12.0,Sim
+U0213,2026-02-23,Manhã,LAB06,DCA0101,Algoritmos,EC,Prof. Bruno Costa,Projeto,15.0,16.0,Não
+U0214,2026-02-23,Manhã,LAB07,DCA0702,Projetos Integradores,EC,Prof. Carla Nunes,Aula regular,16.0,12.0,Sim
+U0215,2026-02-23,Manhã,LAB08,DCA0310,Redes de Computadores,EC,Prof. Elisa Moura,Projeto,30.0,32.0,Sim
+U0216,2026-02-23,Tarde,LAB08,DCA0601,Sistemas Embarcados,EC,Prof. Carla Nunes,Aula prática,20.0,20.0,Sim
+U0217,2026-02-23,Noite,LAB08,DCA0702,Projetos Integradores,EC,Prof. Diego Alves,Projeto,25.0,27.0,Não
+U0218,2026-02-24,Manhã,LAB01,DCA0203,Estruturas de Dados,EC,Prof. Carla Nunes,Avaliação prática,30.0,33.0,Sim
+U0219,2026-02-24,Manhã,LAB02,DCA0520,Ciência de Dados,EC,Prof. Carla Nunes,Aula prática,20.0,20.0,Sim
+U0220,2026-02-24,Tarde,LAB02,DCA0310,Redes de Computadores,EC,Prof. Elisa Moura,Projeto,24.0,27.0,Sim
+U0221,2026-02-24,Manhã,LAB03,DCA0101,Algoritmos,EC,Prof. Carla Nunes,Aula prática,24.0,26.0,Sim
+U0222,2026-02-24,Noite,LAB03,DCA0520,Ciência de Dados,EC,Prof. Bruno Costa,Avaliação prática,18.0,14.0,Não
+U0223,2026-02-24,Manhã,LAB04,DCA0101,Algoritmos,EC,Prof. Carla Nunes,Projeto,15.0,16.0,Sim
+U0224,2026-02-24,Tarde,LAB05,DCA0702,Projetos Integradores,EC,Prof. Elisa Moura,Monitoria,11.0,9.0,Não
+U0225,2026-02-24,Noite,LAB05,DCA0310,Redes de Computadores,EC,Prof. Ana Lima,Aula regular,13.0,10.0,Não
+U0226,2026-02-24,Manhã,LAB06,DCA0520,Ciência de Dados,EC,Prof. Carla Nunes,Projeto,11.0,11.0,Sim
+U0227,2026-02-24,Noite,LAB06,DCA0412,Banco de Dados,SI,Prof. Bruno Costa,Aula prática,13.0,10.0,Não
+U0228,2026-02-24,Manhã,LAB07,DCA0601,Sistemas Embarcados,EC,Prof. Carla Nunes,Monitoria,16.0,13.0,Sim
+U0229,2026-02-24,Tarde,LAB07,DCA0310,Redes de Computadores,EC,Prof. Bruno Costa,Monitoria,13.0,11.0,Sim
+U0230,2026-02-24,Noite,LAB07,DCA0203,Estruturas de Dados,EC,Prof. Diego Alves,Aula prática,11.0,10.0,Sim
+U0231,2026-02-24,Manhã,LAB08,DCA0310,Redes de Computadores,EC,Prof. Elisa Moura,Aula prática,28.0,26.0,Sim
+U0232,2026-02-24,Tarde,LAB08,DCA0601,Sistemas Embarcados,EC,Prof. Diego Alves,Avaliação prática,29.0,31.0,Sim
+U0233,2026-02-24,Noite,LAB08,DCA0310,Redes de Computadores,EC,Prof. Diego Alves,Avaliação prática,16.0,19.0,Sim
+U0234,2026-02-25,Manhã,LAB01,DCA0702,Projetos Integradores,EC,Prof. Bruno Costa,Projeto,32.0,30.0,Sim
+U0235,2026-02-25,Noite,LAB01,DCA0310,Redes de Computadores,EC,Prof. Carla Nunes,Aula regular,20.0,18.0,Sim
+U0236,2026-02-25,Tarde,LAB02,DCA0310,Redes de Computadores,EC,Prof. Bruno Costa,Avaliação prática,17.0,17.0,Sim
+U0237,2026-02-25,Noite,LAB02,DCA0310,Redes de Computadores,EC,Prof. Elisa Moura,Aula regular,32.0,29.0,Sim
+U0238,2026-02-25,Manhã,LAB03,DCA0520,Ciência de Dados,EC,Prof. Ana Lima,Aula prática,23.0,19.0,Sim
+U0239,2026-02-25,Manhã,LAB04,DCA0203,Estruturas de Dados,EC,Prof. Elisa Moura,Aula prática,24.0,26.0,Não
+U0240,2026-02-25,Noite,LAB04,DCA0601,Sistemas Embarcados,EC,Prof. Bruno Costa,Projeto,16.0,19.0,Sim
+U0241,2026-02-25,Manhã,LAB05,DCA0601,Sistemas Embarcados,EC,Prof. Diego Alves,Projeto,10.0,8.0,Não
+U0242,2026-02-25,Tarde,LAB05,DCA0310,Redes de Computadores,EC,Prof. Carla Nunes,Monitoria,19.0,17.0,Sim
+U0243,2026-02-25,Manhã,LAB06,DCA0310,Redes de Computadores,EC,Prof. Carla Nunes,Aula regular,18.0,15.0,Não
+U0244,2026-02-25,Tarde,LAB06,DCA0412,Banco de Dados,SI,Prof. Ana Lima,Aula prática,13.0,11.0,Sim
+U0245,2026-02-25,Tarde,LAB07,DCA0702,Projetos Integradores,EC,Prof. Elisa Moura,Monitoria,11.0,12.0,Sim
+U0246,2026-02-25,Manhã,LAB08,DCA0520,Ciência de Dados,EC,Prof. Carla Nunes,Projeto,28.0,31.0,Sim
+U0247,2026-02-25,Tarde,LAB08,DCA0412,Banco de Dados,SI,Prof. Bruno Costa,Aula regular,30.0,32.0,Sim
+U0248,2026-02-25,Noite,LAB08,DCA0310,Redes de Computadores,EC,Prof. Carla Nunes,Avaliação prática,29.0,32.0,Sim
+U0249,2026-02-26,Tarde,LAB01,DCA0310,Redes de Computadores,EC,Prof. Carla Nunes,Aula prática,26.0,28.0,Não
+U0250,2026-02-26,Noite,LAB01,DCA0520,Ciência de Dados,EC,Prof. Elisa Moura,Monitoria,21.0,22.0,Sim
+U0251,2026-02-26,Manhã,LAB02,DCA0412,Banco de Dados,SI,Prof. Elisa Moura,Avaliação prática,32.0,32.0,Sim
+U0252,2026-02-26,Tarde,LAB02,DCA0101,Algoritmos,EC,Prof. Carla Nunes,Avaliação prática,27.0,28.0,Sim
+U0253,2026-02-26,Manhã,LAB03,DCA0520,Ciência de Dados,EC,Prof. Ana Lima,Aula prática,25.0,21.0,Sim
+U0254,2026-02-26,Manhã,LAB04,DCA0203,Estruturas de Dados,EC,Prof. Carla Nunes,Avaliação prática,21.0,19.0,Sim
+U0255,2026-02-26,Tarde,LAB04,DCA0520,Ciência de Dados,EC,Prof. Elisa Moura,Monitoria,23.0,23.0,Não
+U0256,2026-02-26,Manhã,LAB05,DCA0702,Projetos Integradores,EC,Prof. Carla Nunes,Aula prática,10.0,11.0,Não
+U0257,2026-02-26,Noite,LAB06,DCA0412,Banco de Dados,SI,Prof. Ana Lima,Avaliação prática,14.0,13.0,Não
+U0258,2026-02-26,Manhã,LAB07,DCA0601,Sistemas Embarcados,EC,Prof. Bruno Costa,Aula regular,18.0,20.0,Sim
+U0259,2026-02-26,Tarde,LAB07,DCA0601,Sistemas Embarcados,EC,Prof. Ana Lima,Projeto,10.0,9.0,Sim
+U0260,2026-02-26,Noite,LAB07,DCA0412,Banco de Dados,SI,Prof. Elisa Moura,Avaliação prática,12.0,14.0,Não
+U0261,2026-02-26,Noite,LAB08,DCA0203,Estruturas de Dados,EC,Prof. Elisa Moura,Monitoria,30.0,29.0,Não
+U0262,2026-02-27,Manhã,LAB01,DCA0310,Redes de Computadores,EC,Prof. Elisa Moura,Monitoria,20.0,23.0,Sim
+U0263,2026-02-27,Noite,LAB02,DCA0412,Banco de Dados,SI,Prof. Carla Nunes,Avaliação prática,21.0,20.0,Sim
+U0264,2026-02-27,Manhã,LAB03,DCA0310,Redes de Computadores,EC,Prof. Diego Alves,Monitoria,22.0,21.0,Não
+U0265,2026-02-27,Tarde,LAB03,DCA0702,Projetos Integradores,EC,Prof. Ana Lima,Avaliação prática,21.0,21.0,Não
+U0266,2026-02-27,Manhã,LAB04,DCA0310,Redes de Computadores,EC,Prof. Carla Nunes,Aula prática,24.0,22.0,Sim
+U0267,2026-02-27,Noite,LAB04,DCA0412,Banco de Dados,SI,Prof. Diego Alves,Aula regular,22.0,22.0,Sim
+U0268,2026-02-27,Tarde,LAB05,DCA0520,Ciência de Dados,EC,Prof. Bruno Costa,Aula prática,21.0,21.0,Sim
+U0269,2026-02-27,Noite,LAB05,DCA0601,Sistemas Embarcados,EC,Prof. Bruno Costa,Aula prática,18.0,17.0,Sim
+U0270,2026-02-27,Manhã,LAB06,DCA0601,Sistemas Embarcados,EC,Prof. Bruno Costa,Aula prática,17.0,14.0,Sim
+U0271,2026-02-27,Tarde,LAB06,DCA0412,Banco de Dados,SI,Prof. Carla Nunes,Monitoria,17.0,16.0,Sim
+U0272,2026-02-27,Tarde,LAB07,DCA0520,Ciência de Dados,EC,Prof. Bruno Costa,Projeto,12.0,8.0,Sim
+U0273,2026-02-27,Manhã,LAB08,DCA0702,Projetos Integradores,EC,Prof. Bruno Costa,Monitoria,26.0,29.0,Sim
+U0274,2026-02-27,Tarde,LAB08,DCA0520,Ciência de Dados,EC,Prof. Carla Nunes,Projeto,17.0,18.0,Não
+U0031,2026-02-03,Manhã,LAB08,DCA0702,Projetos Integradores,EC,Prof. Elisa Moura,Aula prática,17.0,13.0,Sim
