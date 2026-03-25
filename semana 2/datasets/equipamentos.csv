@@ -1,0 +1,42 @@
+item_id,lab_id,tipo_equipamento,quantidade,fabricante_predominante,ano_aquisicao_medio,status_geral
+E001,LAB01,Desktop,20,Dell,2022,Operacional
+E002,LAB01,Monitor,20,TP-Link,2019,Operacional
+E003,LAB01,Projetor,1,Dell,2021,Parcial
+E004,LAB01,Switch,1,HP,2024,Parcial
+E005,LAB01,Access Point,2,Intelbras,2022,Parcial
+E006,LAB02,Desktop,20,Epson,2024,Operacional
+E007,LAB02,Monitor,29,Dell,2020,Parcial
+E008,LAB02,Projetor,2,HP,2024,Operacional
+E009,LAB02,Switch,1,Dell,2021,Parcial
+E010,LAB02,Access Point,2,TP-Link,2022,Operacional
+E011,LAB03,Desktop,32,Lenovo,2020,Operacional
+E012,LAB03,Monitor,24,Epson,2019,Operacional
+E013,LAB03,Projetor,2,Intelbras,2023,Operacional
+E014,LAB03,Switch,1,HP,2019,Operacional
+E015,LAB03,Access Point,1,Intelbras,2023,Operacional
+E016,LAB04,Desktop,19,Intelbras,2022,Operacional
+E017,LAB04,Monitor,24,Dell,2020,Operacional
+E018,LAB04,Projetor,1,TP-Link,2023,Operacional
+E019,LAB04,Switch,1,Lenovo,2020,Operacional
+E020,LAB04,Access Point,2,Lenovo,2021,Operacional
+E021,LAB05,Desktop,23,Epson,2024,Parcial
+E022,LAB05,Monitor,33,Dell,2021,Parcial
+E023,LAB05,Projetor,2,Lenovo,2024,Parcial
+E024,LAB05,Switch,2,HP,2021,Parcial
+E025,LAB05,Access Point,1,TP-Link,2022,Operacional
+E026,LAB05,Kit embarcado,3,Lenovo,2024,Operacional
+E027,LAB06,Desktop,32,Dell,2023,Parcial
+E028,LAB06,Monitor,31,TP-Link,2023,Operacional
+E029,LAB06,Projetor,1,HP,2021,Operacional
+E030,LAB06,Switch,2,Epson,2019,Parcial
+E031,LAB06,Access Point,2,Dell,2023,Operacional
+E032,LAB07,Desktop,26,Intelbras,2024,Operacional
+E033,LAB07,Monitor,20,HP,2023,Operacional
+E034,LAB07,Projetor,1,HP,2021,Operacional
+E035,LAB07,Switch,1,HP,2020,Operacional
+E036,LAB07,Access Point,2,HP,2024,Operacional
+E037,LAB08,Desktop,25,TP-Link,2021,Operacional
+E038,LAB08,Monitor,30,Intelbras,2023,Operacional
+E039,LAB08,Projetor,1,Lenovo,2021,Parcial
+E040,LAB08,Switch,2,Dell,2024,Parcial
+E041,LAB08,Access Point,2,HP,2021,Operacional
